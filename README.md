@@ -194,4 +194,4 @@ All components run locally after initial setup:
 
 ## 📄 License
 
-This project was developed for academic purposes as part of the NLP Individual Assignment 02.
+This project was developed by R.R. Sarah Widanagamage
