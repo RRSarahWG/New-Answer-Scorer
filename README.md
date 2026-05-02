@@ -2,7 +2,7 @@
 
 ### Anuradhapura Period History — NLP Individual Assignment 02
 
-> **Module:** 40_CS4032 Natural Language Processing  
+> 
 > **Scope:** Ancient Sri Lanka — Anuradhapura Period (4th century BCE – 11th century CE)
 
 An offline, CPU-compatible intelligent answer scoring system for open-ended Sinhala-language history questions. The system uses **RAG (Retrieval-Augmented Generation)**, an **OWL Ontology**, and a **multi-agent pipeline** powered by a Sinhala-fine-tuned LLM via OLLAMA to evaluate student answers and provide criterion-based scoring with constructive Sinhala feedback.
